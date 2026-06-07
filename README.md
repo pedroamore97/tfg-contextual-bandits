@@ -97,11 +97,11 @@ El Bandido Contextual aprende a ofertar sistemáticamente por debajo de la previ
 
 | Archivo | Contenido |
 |---|---|
-| `fig5_regret.png` | Arrepentimiento medio acumulado R(t)/t vs cota teórica del Teorema 1 |
-| `fig6_ingresos.png` | Ingreso acumulado relativo al Forecast Bid por estrategia |
-| `fig7_desglose.png` | Desglose day-ahead / real-time por estrategia |
-| `fig8_bolas.png` | Evolución del número de bolas activas \|B_t\| (133 al final) |
-| `fig10_distribucion_pujas.png` | Distribución de la desviación de oferta Δ_t |
+| `fig1_regret.png` | Arrepentimiento medio acumulado R(t)/t vs cota teórica del Teorema 1 |
+| `fig2_ingresos.png` | Ingreso acumulado relativo al Forecast Bid por estrategia |
+| `fig3_desglose.png` | Desglose day-ahead / real-time por estrategia |
+| `fig4_distribucion_pujas.png` | Distribución de la desviación de oferta Δ_t |
+| `fig5_bolas.png` | Evolución del número de bolas activas \|B_t\| (133 al final) |
 
 ---
 
